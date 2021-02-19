@@ -50,6 +50,7 @@
 
 </style>
 	<script type="text/javascript" src="index.hyperesources/runOnLoad.js"></script>
+	<script type="text/javascript" src="index.hyperesources/howler.min.js"></script>
 
 	<!-- end copy -->
   </head>
@@ -60,7 +61,7 @@
 		<noscript>
 			<img src="index.hyperesources/poster.jpg" width="100%" height="100%">
 		</noscript>
-		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?58516"></script>
+		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?37045"></script>
 	</div>
 
 	<!-- end copy -->
@@ -71,7 +72,7 @@
 
 	<div style="display:none" aria-hidden=true>
 
-		<div>Dejando atrás al desasfortunado e inconsolable Mr. Vaughan, y sin saber que acababan de presenciar el fin de la bonanza del tabaco en Ambalema, nuestros viajeros retomaron su viaje desde Puerto Conejo en la Dorada. Allí, inicia su recorrido por el río Magdalena, la entrañable arteria del país en donde se transportaban bogas, comerciantes, exploradores, familias y en general, una variopinta muestra de los pobladores de Colombia.
+		<div>Dejando atrás al desafortunado e inconsolable Mr. Vaughan, y sin saber que acababan de presenciar el fin de la bonanza del tabaco en Ambalema, nuestros viajeros retomaron su viaje desde Puerto Conejo en la Dorada. Allí, inicia su recorrido por el río Magdalena, la entrañable arteria del país en donde se transportaban bogas, comerciantes, exploradores, familias y en general, una variopinta muestra de los pobladores de Colombia.
 </div>
 		<div>Capítulo 3</div>
 		<div>LA DORADA</div>
@@ -85,6 +86,8 @@
 		<div>Este libro fue posible gracias a:</div>
 		<div>El viaje de Otto es una historia creada por Andrea Sazu y Andrezzinho.
 Música original de Carlos Dudley Sandoval.</div>
+		<div>¡¡¡¡JOSEFA!!!</div>
+		<div>¡¿Qué haces aquí?!</div>
 		<div>¡Oh!
 </div>
 		<div></div>
@@ -123,6 +126,23 @@ Usted joven: su tiquete es de segunda clase. 
 </div>
 		<div>Siga al primer piso.
 </div>
+		<div>Señorita dígame…., ¿dónde aprendió a hacer esos nudos?
+</div>
+		<div>Mi padre era marinero.. o algo así. 
+</div>
+		<div>¿Y dónde está su padre ahora? ¿Es por eso que está con la tripulación?
+</div>
+		<div>Ah no, no. Yo vine en tercera clase porque no tenía dinero para viajar arriba y pues...
+</div>
+		<div>Me perdona la pregunta, pero ¿qué edad tiene, señorita?
+</div>
+		<div>¡Vaya niña obstinada!</div>
+		<div>Otto reconoció la voz de la mujer que hablaba con los marineros.</div>
+		<div>...vengo a buscar al amor de mi vida.</div>
+		<div>…pues les digo.</div>
+		<div>Tengo 19 años, Y si tanto quieren saber qué hago aquí...
+</div>
+		<div>¡JA!</div>
 
 	</div>
 
