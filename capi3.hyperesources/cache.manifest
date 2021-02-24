@@ -1,9 +1,9 @@
 CACHE MANIFEST
-#635404873.372043
+#635835146.012148
 
-../index.html
+../capi3.html
 HYPE-674.full.min.js
-index_hype_generated_script.js?37045
+capi3_hype_generated_script.js?68573
 boognn__-webfont.woff2
 boognn__-webfont.woff
 1_1Cama.png
@@ -128,6 +128,10 @@ c3_silueta_2x.png
 c3_pescadores.png
 c3_sombra_bkg.jpg
 c3_sombra_bkg_2x.jpg
+c3_peleando.png
+c3_peleando_2x.png
+c3_josefaexplica.png
+c3_josefaexplica_2x.png
 poster.jpg
 PIE.htc
 blank.gif
